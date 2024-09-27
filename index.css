@@ -470,7 +470,7 @@ body{
     position: fixed;
     top: 2%;
     z-index: 15;
-    right: 0%;
+    left: 38%;
     border-top-left-radius: 12px;
     border-bottom-left-radius: 12px;
     transition: 0.4s;
